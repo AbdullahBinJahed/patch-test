@@ -1,4 +1,4 @@
 int main()
 {
-  char name[] = "Adachi";
+  int x = 69;
 }
